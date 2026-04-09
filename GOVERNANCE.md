@@ -157,10 +157,10 @@ Project.
    [<u>http://www.apache.org/licenses/LICENSE-2.0</u>](http://www.apache.org/licenses/LICENSE-2.0)
    (the “Project License”).
 
-   2. All new inbound contributions must also be accompanied by a Developer Certificate of Origin
-   [(<u>http://developercertificate.org</u>)](http://developercertificate.org/) sign-off in the source code system that
-   is submitted through a TSC-approved contribution process which will bind the authorized contributor and, if not
-   self-employed, their employer to the applicable license;
+   2. All new inbound code contributions, whether as a self-employed individual or an individual employed by a corporation, 
+   must be made pursuant to a binding Contributor License Agreement in the form approved by the TSC.  
+   Self-employed individual contributors must agree to the ICLA (in the form approved by the TSC), and individuals 
+   employed by an organization must have that organization agree to the CCLA (in the form approved by the TSC).
 
    3. All outbound code, documentation, specifications and other artifacts will be made available under the Project
    License.
