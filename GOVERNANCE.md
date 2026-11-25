@@ -1,6 +1,6 @@
 # Technical Charter (the “Charter”) for OpenPRoT a Series of LF Projects, LLC
 
-**Adopted August 21, 2025**
+## Adopted August 21, 2025
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the
 OpenPRoT open source project, which has been established as OpenPRoT a Series of LF Projects, LLC (the “Project”). LF
@@ -157,9 +157,9 @@ Project.
    [<u>http://www.apache.org/licenses/LICENSE-2.0</u>](http://www.apache.org/licenses/LICENSE-2.0)
    (the “Project License”).
 
-   2. All new inbound code contributions, whether as a self-employed individual or an individual employed by a corporation, 
-   must be made pursuant to a binding Contributor License Agreement in the form approved by the TSC.  
-   Self-employed individual contributors must agree to the ICLA (in the form approved by the TSC), and individuals 
+   2. All new inbound code contributions, whether as a self-employed individual or an individual employed by a corporation,
+   must be made pursuant to a binding Contributor License Agreement in the form approved by the TSC.
+   Self-employed individual contributors must agree to the ICLA (in the form approved by the TSC), and individuals
    employed by an organization must have that organization agree to the CCLA (in the form approved by the TSC).
 
    3. All outbound code, documentation, specifications and other artifacts will be made available under the Project
